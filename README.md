@@ -1,2 +1,2 @@
 # bankheistsim
-Simulate bankheists for fun &amp; profit
+Simulate bankheists and other deepbot for fun &amp; profit
